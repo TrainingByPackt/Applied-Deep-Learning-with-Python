@@ -77,5 +77,5 @@ tqdm==4.19.4
 traitlets==4.3.2
 urllib3==1.22
 wcwidth==0.1.7
-Werkzeug==0.13
+Werkzeug==0.15.3
 widgetsnbextension==3.0.8
